@@ -309,3 +309,4 @@ SELECT COUNT(*) as total_events
 FROM candidate_stage_events
 WHERE organization_id = '00000000-0000-0000-0000-000000000001';
 
+
